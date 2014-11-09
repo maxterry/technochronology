@@ -40,18 +40,17 @@ h1 {
 }
 
 h2 {
-	margin-bottom: 20px;
-	font-size: 1em;
+	font-size: 1.1em;
+}
+
+h2 a, h3 a {
+	border: none;
 }
 
 h3 {
 	background: #F9F9E0;
 	border-top: solid 1px #ccc; border-bottom: solid 1px #ccc;
 	font-size: 1em;
-}
-
-h3 a {
-	border-bottom: none;
 }
 
 h4, p {
