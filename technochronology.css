@@ -18,6 +18,18 @@ body {
 	font-family: georgia, serif;
 }
 
+cite {
+	font-size: .8em; font-style: normal;
+}
+
+cite:before {
+	content: "[";
+}
+
+cite:after {
+	content: "]";
+}
+
 h1, h2, h3 {
 	margin: 0px; padding: 4px;
 	text-align: center;
