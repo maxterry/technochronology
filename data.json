@@ -1,0 +1,11 @@
+{
+  "1800": [{
+    "invention": "Voltaic pile",
+    "desc": "Electrochemical battery",
+    "parts": "Copper and zinc discs piled on top of each other, separated by a layer of cloth or cardboard soaked in brine (electrolyte)",
+    "inventor": "Alessandro Volta",
+    "location": "Genoa, Italy",
+    "info": "https://en.wikipedia.org/wiki/History_of_the_battery#Invention",
+    "more": "https://hackaday.com/2023/05/25/the-voltaic-pile-building-the-first-battery"
+  }]
+}
