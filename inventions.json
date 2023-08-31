@@ -1,0 +1,37 @@
+[{
+  "date": "1800",
+  "invention": "Voltaic pile",
+  "desc": "Electrochemical battery",
+  "parts": "Copper and zinc discs piled on top of each other, separated by a layer of cloth or cardboard soaked in brine (electrolyte)",
+  "inventor": "inventors.volta",
+  "location": "Genoa, Italy",
+  "info": "https://en.wikipedia.org/wiki/History_of_the_battery#Invention",
+  "make": "https://hackaday.com/2023/05/25/the-voltaic-pile-building-the-first-battery"
+}, {
+  "date": "1831"
+  "invention": "Faraday disc",
+  "desc": "Electromagnetic generator",
+  "parts": "",
+  "inventor": "inventors.faraday",
+  "location": "England",
+  "info": "https://en.wikipedia.org/wiki/Homopolar_generator#The_Faraday_disc",
+  "make": "https://www.instructables.com/Faraday-Disk-Dynamo-Homopolar-Generator"
+}, {
+  "date": "1832"
+  "invention": "Dynamo",
+  "desc": "Commutated electromagnetic generator",
+  "parts": "",
+  "inventor": "https://en.wikipedia.org/wiki/Hippolyte_Pixii",
+  "location": "France",
+  "info": "https://en.wikipedia.org/wiki/Dynamo#First_dynamos",
+  "make": ""
+}, {
+  "date": ""
+  "invention": "",
+  "desc": "",
+  "parts": "",
+  "inventor": "",
+  "location": "",
+  "info": "",
+  "make": ""
+}]
